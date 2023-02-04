@@ -32,7 +32,7 @@ public class Main extends JFrame
 		pointer = new Pointer(
 			new ImageIcon(getClass().getResource(
 			"mucs/arrow.gif")).getImage(), 28, 65, this);
-		well = new Well(9, 11, 50, pointer);
+		well = new Well(8, 11, 50, pointer);
 
 		rotateSpeed = defaultRotateSpeed;
 

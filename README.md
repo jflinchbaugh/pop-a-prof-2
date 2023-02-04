@@ -8,3 +8,5 @@ I maybe worked on this version around 2005.
 
 See:
 https://github.com/jflinchbaugh/bust
+
+![Pop-A-Prof 2](pop-a-prof-2.png)

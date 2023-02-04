@@ -1,0 +1,5 @@
+<project name = "bust2" default = "compile" basedir = ".">
+	<target name = "compile">
+		<javac srcdir = "." destdir = "." debug = "on"/>
+	</target>
+</project>
